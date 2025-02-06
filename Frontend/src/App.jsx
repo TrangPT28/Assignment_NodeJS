@@ -41,7 +41,7 @@ function App() {
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container">
           <a className="navbar-brand" href="/">
-            REACT
+            REACT tttt
           </a>
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
