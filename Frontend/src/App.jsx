@@ -47,7 +47,7 @@ function App() {
             <ul className="navbar-nav">
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="/">
-                  Home hhhh
+                  Home
                 </a>
               </li>
               <li className="nav-item">
